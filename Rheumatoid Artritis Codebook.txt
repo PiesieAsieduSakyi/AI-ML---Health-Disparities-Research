@@ -1,0 +1,48 @@
+General Description: This dataset contains data from puertorican patients who have been suspected of having rheumatiod artritis and have taken a Rheumatoid factor and Cyclic citrullinated Ab-IgG test to confirm the diagnosis. 			
+			
+			
+			
+Variable Name	Description	Data type	
+Patient ID	Unique label to identify each patient	Unique Label	
+age__15-20	Patient age group__15-20	Binary (0-1)	
+age__20-25	Patient age group__20-25	Binary (0-1)	
+age__25-30	Patient age group__25-30	Binary (0-1)	
+age__30-35	Patient age group__30-35	Binary (0-1)	
+age__35-40	Patient age group__35-40	Binary (0-1)	
+age__40-45	Patient age group__40-45	Binary (0-1)	
+age__45-50	Patient age group__45-50	Binary (0-1)	
+age__50-55	Patient age group__50-55	Binary (0-1)	
+age__55-60	Patient age group__55-60	Binary (0-1)	
+age__60-65	Patient age group__60-65	Binary (0-1)	
+age__65-70	Patient age group__65-70	Binary (0-1)	
+age__70-75	Patient age group__70-75	Binary (0-1)	
+age__75-80	Patient age group__75-80	Binary (0-1)	
+age__80-85	Patient age group__80-85	Binary (0-1)	
+age__85+	Patient age group__85+	Binary (0-1)	
+gender_F	Patient gender 1 = Female   0 = Male	Binary (0-1)	
+gender_M		Binary (0-1)	<-Drop
+person_zip	Patient zipcode	Float	
+6768-6_ALP	Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 	Float	
+1751-7_Albumin	Albumin [Mass/volume] in Serum or Plasma	Float	
+4548-4_A1c	Hemoglobin A1c/Hemoglobin.total in Blood	Float	
+2345-7_Fasting glucose 	Glucose [Mass/volume] in Serum or Plasma	Float	
+3026-2_T4	Thyroxine (T4) [Mass/volume] in Serum or Plasma	Float	
+3053-6_T3	Triiodothyronine (T3) [Mass/volume] in Serum or Plasma	Float	
+3024-7_Free T4	Thyroxine (T4) free [Mass/volume] in Serum or Plasma	Float	
+3016-3_TSH	Thyrotropin [Units/volume] in Serum or Plasma	Float	
+2085-9_HDL	Cholesterol in HDL [Mass/volume] in Serum or Plasma	Float	
+13457-7_LDL	Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation	Float	
+2093-3_Cholesterol	Cholesterol [Mass/volume] in Serum or Plasma	Float	
+2571-8_Triglycerides	Triglyceride [Mass/volume] in Serum or Plasma	Float	
+6690-2_WBC	Leukocytes [#/volume] in Blood by Automated count	Float	
+789-8_RBC	Erythrocytes [#/volume] in Blood by Automated count	Float	
+718-7_Hgb	Hemoglobin [Mass/volume] in Blood	Float	
+2888-6_Protein	Protein [Mass/volume] in Urine	Float	
+1975-2_Bilirubin	Bilirubin.total [Mass/volume] in Serum or Plasma	Float	
+14957-5_Albumin	Microalbumin [Mass/volume] in Urine	Float	
+2161-8_Creatinine (urine)	Creatinine [Mass/volume] in Urine	Float	
+2160-0_Creatinine (blood)	Creatinine [Mass/volume] in Serum or Plasma	Float	
+egfr-2_88294-4	"Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)"	Float	
+acr-1_34535-5	Microalbumin/Creatinine panel in random Urine	Float	
+Rheumatoid arthritis	Rheumatoid arthritis  diagnosis	Binary (0-1)	
+			
